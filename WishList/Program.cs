@@ -22,4 +22,4 @@ namespace WishList
                 .UseStartup<Startup>()
                 .Build();
     }
-}
+}  
